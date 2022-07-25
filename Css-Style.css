@@ -1,0 +1,19 @@
+h1 {
+    margin-left: 70px;
+    color:blueviolet;
+}
+p {
+    margin-left: 70px;
+    font-weight: bold;
+    }
+
+label {
+        color:blue;
+    }
+ 
+[type="submit"] {
+        clear: left;
+        margin: 20px 0 0 230px;
+        font-size:18px
+
+        }
